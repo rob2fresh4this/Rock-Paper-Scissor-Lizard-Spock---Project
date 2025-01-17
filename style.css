@@ -67,7 +67,7 @@ body {
 .bg-controller{
     background-color: white;
     border-radius: 50%;
-    margin-right: 50px;
+    margin-right: 25px;
 }
 
 .icon-controller{
@@ -78,7 +78,7 @@ body {
 }
 
 .push-left{
-    margin-left: 40px;
+    margin-left: 5px;
 }
 
 .goBackBtn{
