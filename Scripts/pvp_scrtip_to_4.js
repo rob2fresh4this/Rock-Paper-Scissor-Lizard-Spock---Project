@@ -27,6 +27,8 @@ function handleInput(choice) {
 function gameCheck() {
     if (player1Choice === player2Choice) {
         alert('Tie!');
+        resetChoices();
+        return;// to stop the function from executing further
     }
 
     switch (player1Choice) {
