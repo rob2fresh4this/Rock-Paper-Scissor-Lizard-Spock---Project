@@ -98,17 +98,17 @@ function resetScores() {
 }
 
 function resetGame() {
-    resetChoices();
     resetScores();
+    resetChoices();
 }
 
 function displayScores() {
     if (Player1Score === 3) {
-        alert('Player 1 wins the game!');
         resetGame();
+        alert('Player 1 wins the game! Tap OK to play again.');
     } else if (Player2Score === 3) {
-        alert('Player 2 wins the game!');
         resetGame();
+        alert('Player 2 wins the game! Tap OK to play again.');
     }
 }
 
