@@ -70,13 +70,13 @@ For CPU responses in 1vCPU mode, use any of the following methods:
 #### Your Names:  Robert G.
 
 #### Date Revised  
-- [1/14/25]  
+- [1/17/25]  
 
 #### Exercise or Lab Name  
 [Rock Paper Scissor Lizard Spock - Project]
 
 #### Revision History  
-- [1/14/25] done  
+- [1/17/25] done  
 
 # Review by: 
 ### Overall Feedback:
