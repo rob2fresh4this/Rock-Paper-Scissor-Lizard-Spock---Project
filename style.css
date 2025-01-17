@@ -115,3 +115,13 @@ body {
     text-align: left !important;
 }
 
+.PlayerScoreBox{
+    background-color: white;
+    color: #22015e;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
