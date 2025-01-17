@@ -76,3 +76,42 @@ body {
     cursor: pointer;
     padding: 10px;
 }
+
+.push-left{
+    margin-left: 40px;
+}
+
+.goBackBtn{
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    color: #22015e;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.container_htp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rules{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin: 3rem 0 3rem;
+}
+
+.rulesText div {
+    font-size: 20px;
+    color: #22015e;
+    text-align: left !important;
+}
+

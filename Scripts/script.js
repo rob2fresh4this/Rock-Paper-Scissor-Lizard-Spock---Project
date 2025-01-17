@@ -66,18 +66,10 @@ async function gameCheck(userInput) {
 }
 
 
-rockInput.addEventListener('click', () => {
-    gameCheck('rock');
-});
-paperInput.addEventListener('click', () => {
-    gameCheck('paper');
-});
-scissorsInput.addEventListener('click', () => {
-    gameCheck('scissors');
-});
-lizardInput.addEventListener('click', () => {
-    gameCheck('lizard');
-});
-spockInput.addEventListener('click', () => {
-    gameCheck('spock');
-});
+rockInput.addEventListener('click', () => gameCheck('rock'));
+paperInput.addEventListener('click', () => gameCheck('paper'));
+scissorsInput.addEventListener('click', () => gameCheck('scissors'));
+lizardInput.addEventListener('click', () => gameCheck('lizard'));
+spockInput.addEventListener('click', () => gameCheck('spock'));
+
+
