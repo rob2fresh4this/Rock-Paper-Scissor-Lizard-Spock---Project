@@ -78,6 +78,6 @@ For CPU responses in 1vCPU mode, use any of the following methods:
 #### Revision History  
 - [1/17/25] done  
 
-# Review by: 
+# Review by: Gianpaolo Reinares
 ### Overall Feedback:
- - 
+> Code Looks Good; Site is simple, but functioning; I like the use of Alerts to get the players attention; API pulls a random choice after every turn; Overall Great Job!
